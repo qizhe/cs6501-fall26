@@ -10,7 +10,7 @@ permalink: /schedule.html
 | Date | Topic | Readings |
 |---|---|---|
 | Wed 08/27 | Introduction: datacenter infra | [Slides](Lec1-CourseOverview.pdf) |
-| Mon 09/01 | How to profile your system | [Slides](Lec2-HowToProfile.pdf) [Understanding host network stack latency](https://www.qizhecai.com/papers/latency.pdf) |
+| Mon 09/01 | How to profile your system | [Slides](Lec2-HowToProfile.pdf); [Understanding host network stack latency](https://www.qizhecai.com/papers/latency.pdf) |
 
 ---
 
