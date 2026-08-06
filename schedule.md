@@ -14,6 +14,8 @@ permalink: /schedule.html
 
 ---
 
+
+
 ### Network core
 
 | Date | Topic | Readings |
